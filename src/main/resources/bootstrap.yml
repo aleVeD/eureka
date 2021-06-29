@@ -3,5 +3,7 @@ spring:
     name: eureka-server
   cloud:
     config:
-      uri: http://locallhost:8888
+      uri: http://localhost:4444
+     # username: aleja
+     # password: '{cipher}Rfty78"vd'
 
